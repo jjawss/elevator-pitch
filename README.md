@@ -1,2 +1,2 @@
 # elevator-pitch
-My name is Josh
+I’m a programmer, but I got there in the most indirect way possible. Before I got into software development I managed a restaurant, managed a startup, and worked in marketing. Through my diverse set of experiences I discovered that I’m most fulfilled when I have the opportunity to create, learn, and model things into systems that can be broken down. I’m also a bit of a perfectionist. All these discoveries pointed me in the direction of programming, so I enrolled with Flatiron.
